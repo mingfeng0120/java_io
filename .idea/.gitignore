@@ -1,0 +1,5 @@
+# Default ignored files
+/workspace.xml
+
+# CodeStream ignored files
+/../../java_io\.idea/codestream.xml
